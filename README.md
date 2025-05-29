@@ -21,9 +21,9 @@ Proyek sekolah berupa website **Dealer Mobil Sederhana** yang memungkinkan pengg
 1. **Download file ZIP** dari repositori ini.
 2. **Ekstrak file ZIP** ke dalam folder lokal.
 3. **Pindahkan folder proyek ke `htdocs`** (dalam direktori XAMPP).
-4. **Jalankan XAMPP** dan aktifkan module `Apache`.
-5. **Buka browser**, lalu akses melalui: http://localhost/ivy-garage/
-6. Website akan tampil dan siap digunakan.
+4. **Jalankan XAMPP** dan aktifkan module `Apache` & `MySQL`.
+6. **Buka browser**, lalu akses melalui: http://localhost/ivy-garage/
+7. Website akan tampil dan siap digunakan.
 
 ## 👨‍💻 Developer
 Proyek ini dibuat oleh: **Farell Adrian**  
